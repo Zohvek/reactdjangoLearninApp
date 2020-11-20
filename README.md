@@ -2,4 +2,4 @@
 
 Following tutorial from tech with tim
 
-test x 2 x3 
+currently on video 3
